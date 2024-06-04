@@ -2,7 +2,7 @@
 --sub to vascal for more leaked scripts
 
 getgenv().tog = false
-getgenv().key = "c"
+getgenv().key = "E"
 getgenv().X = 678
 getgenv().Y = 100
 getgenv().Z = -344
