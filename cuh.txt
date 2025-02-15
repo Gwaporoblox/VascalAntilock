@@ -1,13 +1,13 @@
 -- by khen.cc
 
 local Settings = {
-    Accent = Color3.fromHex("#90EE90"),
+    Accent = Color3.fromHex("#E8BABA"),
     Font = Enum.Font.SourceSans,
     IsBackgroundTransparent = true,
     Rounded = false,
     Dim = false,
     
-    ItemColor = Color3.fromRGB(30, 30, 30),
+    ItemColor = Color3.fromRGB(255, 0, 0),
     BorderColor = Color3.fromRGB(45, 45, 45),
     MinSize = Vector2.new(400, 370),
     MaxSize = Vector2.new(400, 370)
