@@ -1,18 +1,17 @@
 -- by khen.cc
 
 local Settings = {
-    Accent = Color3.fromRGB(0, 255, 255),
-    Font = Enum.Font.Arcade,
+    Accent = Color3.fromHex("#FFA500"),
+    Font = Enum.Font.SourceSans,
     IsBackgroundTransparent = true,
     Rounded = false,
     Dim = false,
     
-    ItemColor = Color3.fromRGB(0, 255, 255),
-    BorderColor = Color3.fromRGB(255, 0, 0),
+    ItemColor = Color3.fromRGB(255, 0, 0),
+    BorderColor = Color3.fromRGB(0, 255, 255),
     MinSize = Vector2.new(400, 370),
     MaxSize = Vector2.new(400, 370)
 }
-
 
 local Menu = {}
 local Tabs = {}
