@@ -1,7 +1,7 @@
 -- by khen.cc
 
 local Settings = {
-    Accent = Color3.fromHex("#FFA500"),
+    Accent = Color3.fromHex("#00FFFF"),
     Font = Enum.Font.SourceSans,
     IsBackgroundTransparent = true,
     Rounded = false,
